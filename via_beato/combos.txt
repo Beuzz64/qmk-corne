@@ -1,0 +1,13 @@
+	ZE = ESC = KC_ESC
+
+AZER = ^ = KC_CIRC
+
+ê = ZER = 
+
+è = ZE = 
+ 
+é = RE =  
+ 
+à = UI =  
+
+ù = IO = 

@@ -1,7 +1,8 @@
-BOOTLOADER = rp2040
-MOUSEKEY_ENABLE = no     # Mouse keys
-RGBLIGHT_ENABLE = yes    # Enable WS2812 RGB underlight.
-VIA_ENABLE      = yes    # Enable VIA
+# BOOTLOADER = rp2040
+MOUSEKEY_ENABLE = yes
+RGBLIGHT_ENABLE = yes
+VIA_ENABLE      = yes
 OLED_ENABLE     = yes
-OLED_DRIVER     = SSD1306
+# COMBO_ENABLE    = yes
 LTO_ENABLE      = yes
+OLED_DRIVER     = SSD1306
