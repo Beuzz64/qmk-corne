@@ -27,7 +27,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
       KC_LSFT,   KC_W,   KC_X,   KC_C,   KC_V,   KC_B,                             KC_N, KC_COMM,  KC_DOT, KC_SCLN, KC_SLSH, KC_LGUI,
   //|--------+--------+--------+--------+--------+--------+--------|  |--------+--------+--------+--------+--------+--------+--------|
-                                          KC_LALT, KC_LCTL,  KC_SPC,     KC_ENT, TL_LOWR, TL_UPPR
+                                          KC_LALT, KC_LCTL,  KC_SPC,     KC_ENT, MO(1), MO(2)
                                       //`--------------------------'  `--------------------------'
 
   ),
@@ -74,7 +74,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
 oled_rotation_t oled_init_user(oled_rotation_t rotation) {
   if (!is_keyboard_master()) {
-    return OLED_ROTATION_181;  // flips the display 180 degrees if offhand
+    return OLED_ROTATION_180;  // flips the display 180 degrees if offhand
   }
   return rotation;
 }

@@ -3,6 +3,6 @@ MOUSEKEY_ENABLE = yes
 RGBLIGHT_ENABLE = yes
 VIA_ENABLE      = yes
 OLED_ENABLE     = yes
-# COMBO_ENABLE    = yes
 LTO_ENABLE      = yes
 OLED_DRIVER     = SSD1306
+# COMBO_ENABLE    = yes
