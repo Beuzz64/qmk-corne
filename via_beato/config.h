@@ -28,9 +28,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     #define RGBLIGHT_EFFECT_STATIC_GRADIENT
     #define RGBLIGHT_EFFECT_RAINBOW_SWIRL
     #define RGBLIGHT_EFFECT_RAINBOW_MOOD
+    #define RGBLIGHT_EFFECT_ALTERNATING
     #define RGBLIGHT_EFFECT_CHRISTMAS
     #define RGBLIGHT_EFFECT_BREATHING
- #define RGBLIGHT_EFFECT_ALTERNATING
+    #define RGB_MATRIX_TYPING_HEATMAP
     #define RGBLIGHT_EFFECT_KNIGHT
  #define RGBLIGHT_EFFECT_TWINKLE
 //  #define RGBLIGHT_EFFECT_RGB_TEST
@@ -41,3 +42,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #endif
 
 #define OLED_FONT_H "keyboards/crkbd/lib/glcdfont.c"
+// #define 
