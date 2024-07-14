@@ -16,6 +16,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
+
 #pragma once
 
 /* Select hand configuration */
@@ -28,17 +29,21 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     #define RGBLIGHT_EFFECT_STATIC_GRADIENT
     #define RGBLIGHT_EFFECT_RAINBOW_SWIRL
     #define RGBLIGHT_EFFECT_RAINBOW_MOOD
-    #define RGBLIGHT_EFFECT_ALTERNATING
-    #define RGBLIGHT_EFFECT_CHRISTMAS
-    #define RGBLIGHT_EFFECT_BREATHING
-    #define RGB_MATRIX_TYPING_HEATMAP
-    #define RGBLIGHT_EFFECT_KNIGHT
- #define RGBLIGHT_EFFECT_TWINKLE
-//  #define RGBLIGHT_EFFECT_RGB_TEST
+    #define RGBLIGHT_EFFECT_TWINKLE
     #define RGBLIGHT_LIMIT_VAL 120
     #define RGBLIGHT_HUE_STEP 10
-    #define RGBLIGHT_SAT_STEP 17
+    #define RGBLIGHT_SAT_STEP 34
     #define RGBLIGHT_VAL_STEP 17
+
+#endif
+
+
+#ifdef MOUSEKEY_ENABLE
+    #define MOUSEKEY_MAX_SPEED 4
+    #define MOUSEKEY_WHEEL_DELAY 0
+    #define MOUSEKEY_TIME_TO_MAX 20
 #endif
 
 #define OLED_FONT_H "keyboards/crkbd/lib/glcdfont.c"
+
+//? #define CUSTOM_SHIFT_KEYS_NEGMODS MOD_BIT(KC_RALT)
