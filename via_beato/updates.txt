@@ -3,13 +3,14 @@ UPDATE :
 fix volume and brightness asymmetry in the symbols layer
 change all - to - from numpad : KC_PMNS
 echap combo not working with 78
+work email wrong
 middle click
 -------------------------------------------------------------------------------------
 rearrange page down/up and mouse scroll for one-handed "scrolling"
+On L3, remove 4-key combo on the right
 -------------------------------------------------------------------------------------
 On L0, double tap on MO(1) for MO(3)
 -------------------------------------------------------------------------------------
-touche étoile backtick à foutre à droite de la couche symbols ?
-On L3, remove 4-key combo on the right ?
-second combo for echap next to echap ?
-CORNE : ampersand ?
+touche étoile↑backtick à foutre à droite de la couche symbols ?
+
+
