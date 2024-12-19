@@ -7,7 +7,6 @@ work email wrong
 middle click
 -------------------------------------------------------------------------------------
 rearrange page down/up and mouse scroll for one-handed "scrolling"
-On L3, remove 4-key combo on the right
 -------------------------------------------------------------------------------------
 On L0, double tap on MO(1) for MO(3)
 -------------------------------------------------------------------------------------
