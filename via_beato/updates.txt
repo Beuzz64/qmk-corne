@@ -1,7 +1,7 @@
 UPDATE :
 -------------------------------------------------------------------------------------
-fix volume and brightness asymmetry in the symbols layer
-change all - to - from numpad : KC_PMNS
+fix volume and brightness asymmetry in the symbols layer and swap them
+change all - to - from numpad : KC_PMNS (maybe + as well)
 echap combo not working with 78
 work email wrong
 middle click
