@@ -1,14 +1,15 @@
 UPDATE :
 -------------------------------------------------------------------------------------
-fix volume and brightness asymmetry in the symbols layer and swap them
-change all - to - from numpad : KC_PMNS (maybe + as well)
+fix volume and brightness asymmetry in the symbols layer and also swap them
+change all - to - from numpad : KC_PMNS (maybe + as well)  
 echap combo not working with 78
-work email wrong
-middle click
+work email wrong (tt)
+middle click ?
+Layer Raise : 4 is instead of "
 -------------------------------------------------------------------------------------
-rearrange page down/up and mouse scroll for one-handed "scrolling"
+rearrange page down/up and mouse scroll for one-handed "scrolling" ?
 -------------------------------------------------------------------------------------
-On L0, double tap on MO(1) for MO(3)
+On L0, double tap on MO(1) for MO(3) ?
 -------------------------------------------------------------------------------------
 touche étoile↑backtick à foutre à droite de la couche symbols ?
 
