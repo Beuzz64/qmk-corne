@@ -5,7 +5,7 @@ change all - to - from numpad : KC_PMNS (maybe + as well)
 work email wrong (+ tt)
 Layer Raise : 4 is instead of "
 One-handed (Left) Del/Suppr
-middle click ?
+middle click (ATM on Layer Adjust-shift key)
 echap combo not working with 78 ?
 -------------------------------------------------------------------------------------
 rearrange page down/up and mouse scroll for one-handed "scrolling" ?
