@@ -1,11 +1,12 @@
 UPDATE :
 -------------------------------------------------------------------------------------
 fix volume and brightness asymmetry in the symbols layer and also swap them
-change all - to - from numpad : KC_PMNS (maybe + as well)  
-work email wrong (+ tt)
+change - to - from numpad : KC_PMNS (maybe + as well)  
+work email wrong (rajoute "tt")
 Layer Raise : 4 is instead of "
 One-handed (Left) Del/Suppr
 middle click (ATM on Layer Adjust-shift key)
+add ° somewhere ???
 echap combo not working with 78 ?
 add shift on L3
 rearrange page down/up and mouse scroll for one-handed "scrolling" ?
