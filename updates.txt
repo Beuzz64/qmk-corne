@@ -9,6 +9,8 @@ middle click (ATM on Layer Adjust-shift key)
 add ° somewhere ???
 echap combo not working with 78 ?
 add shift on L3
+remove mouse speeds
+middle click under mouse arrows
 rearrange page down/up and mouse scroll for one-handed "scrolling" ?
 On L0, double tap on MO(1) for MO(3) ?
 -------------------------------------------------------------------------------------
