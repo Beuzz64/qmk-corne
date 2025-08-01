@@ -13,6 +13,7 @@ remove mouse speeds
 middle click under mouse arrows
 rearrange page down/up and mouse scroll for one-handed "scrolling" ?
 On L0, double tap on MO(1) for MO(3) ?
+Put Right Shift instead of quotes, quotes instead of backslash, and put backslash WITH pipe with shifting
 -------------------------------------------------------------------------------------
 
 Think about implementing right Shift
