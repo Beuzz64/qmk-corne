@@ -17,4 +17,6 @@ Put Right Shift instead of quotes, quotes instead of backslash, and put backslas
 -------------------------------------------------------------------------------------
 
 Think about implementing right Shift
-Think about VIM !!!
+VIM ?
+swap % and $ ?
+swap * and | ?
