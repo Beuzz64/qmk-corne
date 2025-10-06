@@ -8,6 +8,7 @@ One-handed (Left) Del/Suppr
 middle click (ATM on Layer Adjust-shift key)
 echap combo not working with 78 ?
 add shift on L3
+add verr num
 remove mouse speeds
 middle click under mouse arrows
 Put Right Shift instead of quotes, quotes instead of backslash, and put backslash WITH pipe with shifting
