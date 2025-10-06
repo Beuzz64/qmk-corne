@@ -1,23 +1,30 @@
 UPDATE :
 -------------------------------------------------------------------------------------
-fix volume and brightness asymmetry in the symbols layer (and swap them ?)
-change - to - from numpad : KC_PMNS (maybe + as well)  
-work email wrong (rajoute "tt")
-Layer Raise : 3 or 4 is instead of "
-One-handed (Left) Del/Suppr
-middle click (ATM on Layer Adjust-shift key)
-echap combo not working with 78 ?
-add shift on L3
+ADD :
 add verr num
-remove mouse speeds
-middle click under mouse arrows
+One-handed (Left) Del/Suppr
+--------------------
+UPDATE :
+change - to - from numpad : KC_PMNS (maybe + as well)  
+Layer Raise : 3 or 4 is instead of "
+middle click under mouse arrows (ATM on Layer Adjust-shift key)
 Put Right Shift instead of quotes, quotes instead of backslash, and put backslash WITH pipe with shifting
+make volume and brightness symmetrical in the symbols layer (and swap them ?)
+--------------------
+FIX :
+work email wrong (rajoute "tt")
+echap combo not working with 78 ?
+--------------------
+DELETE :
+remove mouse speeds
 -------------------------------------------------------------------------------------
-VIM ?
+VIM :
 right Shift
 swap % and $ ?
 swap * and | ?
 -------------------------------------------------------------------------------------
-add ° somewhere ???
+IDEAS :
+add ° somewhere ?
 rearrange page down/up and mouse scroll for one-handed "scrolling" ?
 On L0, double tap on MO(1) for MO(3) ?
+add shift on L3 ?
