@@ -30,6 +30,8 @@ copy the source code to here `qmk_firmare/keyboards/crkbd/keymaps/<your_name>`
 >
 > `qmk compile -kb <keyboard> -km <keymap> -e CONVERT_TO=promicro_rp2040`
 >
+> example: `qmk compile -kb crkbd/rev1 -km via_mechboards -e CONVERT_TO=elite_pi`
+
 > Then drag and drop the .uf2 file directly to the microcontroller massive storage unit that appears when putting it into boot mode
 
 ## FAQ
