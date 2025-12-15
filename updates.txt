@@ -14,14 +14,15 @@ make volume and brightness symmetrical in the symbols layer (and swap them ?)
 FIX :
 work email wrong (rajoute "tt")
 echap combo not working with 78 ?
---------------------
-DELETE :
-remove mouse speeds
 -------------------------------------------------------------------------------------
 VIM :
 right Shift
 swap % and $ ?
 swap * and | ?
+-------------------------------------------------------------------------------------
+USELESS KEYS ??? :
+- Third Layer : yhn
+- Last Layer : uop, ./! and "windows" 
 -------------------------------------------------------------------------------------
 IDEAS :
 add ° somewhere ?
