@@ -22,7 +22,7 @@ swap * and | ?
 -------------------------------------------------------------------------------------
 USELESS KEYS ??? :
 - Third Layer : yhn
-- Last Layer : uop, ./! and "windows" 
+- Last Layer : uop, ./!, LeftShift and Super
 -------------------------------------------------------------------------------------
 IDEAS :
 add ° somewhere ?
