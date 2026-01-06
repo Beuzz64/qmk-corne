@@ -1,19 +1,19 @@
-UPDATE :
 -------------------------------------------------------------------------------------
 ADD :
 add verr num
 One-handed (Left) Del/Suppr
---------------------
+-------------------------------------------------------------------------------------
 UPDATE :
 change - to - from numpad : KC_PMNS (maybe + as well)  
-Layer Raise : 3 or 4 is instead of "
+Layer Raise (3) : 3 or 4 is instead of
 middle click under mouse arrows (ATM on Layer Adjust-shift key)
 Put Right Shift instead of quotes, quotes instead of backslash, and put backslash WITH pipe with shifting
 make volume and brightness symmetrical in the symbols layer (and swap them ?)
---------------------
+-------------------------------------------------------------------------------------
 FIX :
 work email wrong (rajoute "tt")
-echap combo not working with 78 ?
+Email shortcut format sometimes wrong
+echap combo not working with 78
 -------------------------------------------------------------------------------------
 VIM :
 right Shift
@@ -22,7 +22,7 @@ swap * and | ?
 -------------------------------------------------------------------------------------
 USELESS KEYS ??? :
 - Third Layer : yhn
-- Last Layer : uop, ./!, LeftShift and Super
+- Last Layer : uop, ./! and Super
 -------------------------------------------------------------------------------------
 IDEAS :
 add ° somewhere ?
