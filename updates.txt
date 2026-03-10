@@ -12,8 +12,9 @@ make volume and brightness symmetrical in the symbols layer (and swap them ?)
 -------------------------------------------------------------------------------------
 FIX :
 work email wrong (rajoute "tt")
-Email shortcut format sometimes wrong
+Email shortcut format wrong (yruama.peterschmittàgmAIl;com  -  yruama;peterschmittàgmaIl;com  -  peterschm→àcy-tech;fr)
 echap combo not working with 78
+echap xc on third layer ?
 -------------------------------------------------------------------------------------
 VIM :
 right Shift
@@ -31,4 +32,4 @@ Left-handed window navigation instead of "Alt+Tab" ?
 rearrange page down/up and mouse scroll for one-handed "scrolling" ?
 On L0, double tap on MO(1) for MO(3) ?
 add shift on L3 ?
-DO SOMETHING WITH LEFT NUMBER KEYS ON SECOND LAYER ?  
+DO SOMETHING WITH LEFT NUMBER KEYS ON THIRD LAYER AND EVERYTHING WITH IT ? &é"'(-è_çà
