@@ -11,6 +11,7 @@ Put Right Shift instead of quotes, quotes instead of backslash, and put backslas
 make volume and brightness symmetrical in the symbols layer (and swap them ?)
 -------------------------------------------------------------------------------------
 FIX :
+FIX RIGHT SIDE DISCONNECTING !!!
 work email wrong (rajoute "tt")
 Email shortcut format wrong (yruama.peterschmittàgmAIl;com  -  yruama;peterschmittàgmaIl;com  -  peterschm→àcy-tech;fr)
 echap combo not working with 78
