@@ -28,6 +28,7 @@ USELESS KEYS ??? :
 - Last Layer : uop, ./! and Super
 -------------------------------------------------------------------------------------
 IDEAS :
+ADD ENTER ON ONLY LEFT SIDE (L3+Space ?)
 add ° somewhere ?
 Left-handed window navigation instead of "Alt+Tab" ?
 rearrange page down/up and mouse scroll for one-handed "scrolling" ?
@@ -35,3 +36,4 @@ On L0, double tap on MO(1) for MO(3) ?
 add shift on L3 ?
 something (percentage?) at L2+SHIFT+q ?
 DO SOMETHING WITH LEFT NUMBER KEYS ON THIRD LAYER AND EVERYTHING WITH IT ? &é"'(-è_çà
+
