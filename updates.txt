@@ -12,6 +12,7 @@ make volume and brightness symmetrical in the symbols layer (and swap them ?)
 -------------------------------------------------------------------------------------
 FIX :
 FIX RIGHT SIDE DISCONNECTING !!!
+fix ' " on L2 on "d"
 work email wrong (rajoute "tt")
 Email shortcut format wrong (yruama.peterschmittàgmAIl;com  -  yruama;peterschmittàgmaIl;com  -  peterschm→àcy-tech;fr)
 echap combo not working with 78
