@@ -9,6 +9,7 @@ Layer Raise (3) : 3 or 4 is instead of
 middle click under mouse arrows (ATM on Layer Adjust-shift key)
 Put Right Shift instead of quotes, quotes instead of backslash, and put backslash WITH pipe with shifting
 make volume and brightness symmetrical in the symbols layer (and swap them ?)
+Shift + = donne environ ou différent
 -------------------------------------------------------------------------------------
 FIX :
 FIX RIGHT SIDE DISCONNECTING !!!
